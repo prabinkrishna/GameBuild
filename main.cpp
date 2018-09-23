@@ -1,7 +1,8 @@
 #include<iostream>
 int main()
 {
-    cout<<"hello gamer";
+    std::cout<<"hello gamer";
     /* code */
     return 0;
 }
+s
