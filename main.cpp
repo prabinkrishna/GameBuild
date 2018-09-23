@@ -5,4 +5,3 @@ int main()
     /* code */
     return 0;
 }
-s
